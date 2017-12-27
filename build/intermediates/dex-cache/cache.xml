@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Satria\Desktop\SlidingTabusingDesignSupport-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Satria\Desktop\SlidingTabusingDesignSupport-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_a46c196a40f95188a7704e3d2725571fc6108b84\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Satria\.android\build-cache\5fdd98a59dc2e9713d33814aa7bf50a324142f62\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="C:\Users\Satria\Desktop\SlidingTabusingDesignSupport-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_478a84211fac81866eceeb5ee5ce45077567a833\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Satria\Desktop\SlidingTabusingDesignSupport-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="ccd1dcba989c402ae2445d7195f5fa79f190be3b">
+        <dex dex="C:\Users\Satria\Desktop\SlidingTabusingDesignSupport-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_70531acaf8c2c2a14736e6917336ebf2537f67fe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Satria\.android\build-cache\34dbadc80589c8c48eb964b0f2584287b325e9f0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="C:\Users\Satria\Desktop\SlidingTabusingDesignSupport-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ee7090b49d7827ed5915a32d104099eb077375ab\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Satria\.android\build-cache\f8814c17d808a7fe1c3d0a40b3ee720d9b566d1b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Satria\Desktop\SlidingTabusingDesignSupport-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_15fbe97a938e84e0874d7dbd9ca34fc149f8b3f8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Satria\.android\build-cache\9810f14e55b9ae82193c2069ef59a4dd93094ba0\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="C:\Users\Satria\Desktop\SlidingTabusingDesignSupport-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_35fd4074b99e4380909b67e6ecccc0eec3e21e72\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Satria\.android\build-cache\9810f14e55b9ae82193c2069ef59a4dd93094ba0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="C:\Users\Satria\Desktop\SlidingTabusingDesignSupport-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7affd20cb5763f6bbecdbeff82129272ec100263\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Satria\.android\build-cache\d2915af32a47fec9d194953531b79bc445365493\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="C:\Users\Satria\Desktop\SlidingTabusingDesignSupport-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d2af12979f0c114074cb577b80978c2c61ae64b9\classes.dex" />
+    </item>
+
+</items>
